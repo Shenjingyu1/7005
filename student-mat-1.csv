@@ -1,0 +1,396 @@
+intake_id,year,intake ,student_id,sex,age,address,Parents information_id,Medu,Fedu,Mjob,Fjob,Factors of Learning_ id,studytime,failures,famsup,internet,freetime,goout,health,absences,G3
+2003 ,2020 ,March,001,F,18,U,PRE001,4,4,at_home,teacher,FA001,2,0,no,no,3,4,3,6,6
+2003 ,2020 ,March,002,F,17,U,PRE002,1,1,at_home,other,FA002,2,0,yes,yes,3,3,3,4,6
+2003 ,2020 ,March,003,F,15,U,PRE003,1,1,at_home,other,FA003,2,3,no,yes,3,2,3,10,10
+2003 ,2020 ,March,004,F,15,U,PRE004,4,2,health,services,FA004,3,0,yes,yes,2,2,5,2,15
+2003 ,2020 ,March,005,F,16,U,PRE005,3,3,other,other,FA005,2,0,yes,no,3,2,5,4,10
+2003 ,2020 ,March,006,M,16,U,PRE006,4,3,services,other,FA006,2,0,yes,yes,4,2,5,10,15
+2003 ,2020 ,March,007,M,16,U,PRE007,2,2,other,other,FA007,2,0,no,yes,4,4,3,0,11
+2003 ,2020 ,March,008,F,17,U,PRE008,4,4,other,teacher,FA008,2,0,yes,no,1,4,1,6,6
+2003 ,2020 ,March,009,M,15,U,PRE009,3,2,services,other,FA009,2,0,yes,yes,2,2,1,0,19
+2003 ,2020 ,March,010,M,15,U,PRE010,3,4,other,other,FA010,2,0,yes,yes,5,1,5,0,15
+2003 ,2020 ,March,011,F,15,U,PRE011,4,4,teacher,health,FA011,2,0,yes,yes,3,3,2,0,9
+2003 ,2020 ,March,012,F,15,U,PRE012,2,1,services,other,FA012,3,0,yes,yes,2,2,4,4,12
+2003 ,2020 ,March,013,M,15,U,PRE013,4,4,health,services,FA013,1,0,yes,yes,3,3,5,2,14
+2003 ,2020 ,March,014,M,15,U,PRE014,4,3,teacher,other,FA014,2,0,yes,yes,4,3,3,2,11
+2003 ,2020 ,March,015,M,15,U,PRE015,2,2,other,other,FA015,3,0,yes,yes,5,2,3,0,16
+2003 ,2020 ,March,016,F,16,U,PRE016,4,4,health,other,FA016,1,0,yes,yes,4,4,2,4,14
+2003 ,2020 ,March,017,F,16,U,PRE017,4,4,services,services,FA017,3,0,yes,yes,2,3,2,6,14
+2003 ,2020 ,March,018,F,16,U,PRE018,3,3,other,other,FA018,2,0,yes,no,3,2,4,4,10
+2003 ,2020 ,March,019,M,17,U,PRE019,3,2,services,services,FA019,1,3,yes,yes,5,5,5,16,5
+2003 ,2020 ,March,020,M,16,U,PRE020,4,3,health,other,FA020,1,0,no,yes,1,3,5,4,10
+2003 ,2020 ,March,021,M,15,U,PRE021,4,3,teacher,other,FA021,2,0,no,yes,4,1,1,0,15
+2003 ,2020 ,March,022,M,15,U,PRE022,4,4,health,health,FA022,1,0,yes,yes,4,2,5,0,15
+2003 ,2020 ,March,023,M,16,U,PRE023,4,2,teacher,other,FA023,2,0,no,yes,5,1,5,2,16
+2003 ,2020 ,March,024,M,16,U,PRE024,2,2,other,other,FA024,2,0,yes,yes,4,4,5,0,12
+2003 ,2020 ,March,025,F,15,R,PRE025,2,4,services,health,FA025,3,0,yes,yes,3,2,5,2,8
+2003 ,2020 ,March,026,F,16,U,PRE026,2,2,services,services,FA026,1,2,yes,yes,2,2,5,14,8
+2003 ,2020 ,March,027,M,15,U,PRE027,2,2,other,other,FA027,1,0,yes,yes,2,2,5,2,11
+2003 ,2020 ,March,028,M,15,U,PRE028,4,2,health,services,FA028,1,0,no,yes,2,4,1,4,15
+2003 ,2020 ,March,029,M,16,U,PRE029,3,4,services,other,FA029,2,0,yes,yes,3,3,5,4,11
+2003 ,2020 ,March,030,M,16,U,PRE030,4,4,teacher,teacher,FA030,2,0,yes,yes,4,5,5,16,11
+2003 ,2020 ,March,031,M,15,U,PRE031,4,4,health,services,FA031,2,0,yes,yes,4,2,5,0,12
+2003 ,2020 ,March,032,M,15,U,PRE032,4,4,services,services,FA032,2,0,yes,yes,3,1,5,0,17
+2003 ,2020 ,March,033,M,15,R,PRE033,4,3,teacher,at_home,FA033,2,0,yes,yes,5,2,5,0,16
+2003 ,2020 ,March,034,M,15,U,PRE034,3,3,other,other,FA034,2,0,no,yes,3,2,2,0,12
+2003 ,2020 ,March,035,M,16,U,PRE035,3,2,other,other,FA035,1,0,yes,yes,4,3,5,0,15
+2003 ,2020 ,March,036,F,15,U,PRE036,2,3,other,other,FA036,1,0,yes,no,5,1,5,0,6
+2003 ,2020 ,March,037,M,15,U,PRE037,4,3,teacher,services,FA037,3,0,yes,yes,4,3,4,2,18
+2003 ,2020 ,March,038,M,16,R,PRE038,4,4,other,teacher,FA038,3,0,yes,yes,4,3,5,7,15
+2003 ,2020 ,March,039,F,15,R,PRE039,3,4,services,health,FA039,3,0,yes,yes,3,2,5,2,11
+2003 ,2020 ,March,040,F,15,R,PRE040,2,2,at_home,other,FA040,1,0,yes,no,3,1,2,8,13
+2003 ,2020 ,March,041,F,16,U,PRE041,2,2,other,other,FA041,2,1,yes,yes,3,3,3,25,11
+2003 ,2020 ,March,042,M,15,U,PRE042,4,4,teacher,other,FA042,1,0,yes,yes,4,3,5,8,12
+2003 ,2020 ,March,043,M,15,U,PRE043,4,4,services,teacher,FA043,2,0,yes,yes,3,3,5,2,18
+2003 ,2020 ,March,044,M,15,U,PRE044,2,2,services,services,FA044,1,0,yes,yes,4,1,1,0,11
+2003 ,2020 ,March,045,F,16,U,PRE045,2,2,other,at_home,FA045,2,1,no,yes,3,3,5,14,9
+2003 ,2020 ,March,046,F,15,U,PRE046,4,3,other,other,FA046,2,0,yes,yes,2,2,5,8,6
+2003 ,2020 ,March,047,F,16,U,PRE047,3,3,other,services,FA047,2,0,yes,yes,3,5,3,12,11
+2003 ,2020 ,March,048,M,16,U,PRE048,4,3,health,services,FA048,4,0,no,yes,2,2,2,4,20
+2003 ,2020 ,March,049,M,15,U,PRE049,4,2,teacher,other,FA049,2,0,yes,no,3,3,5,2,14
+2003 ,2020 ,March,050,F,15,U,PRE050,4,4,services,teacher,FA050,2,1,yes,yes,4,4,3,2,7
+2003 ,2020 ,March,051,F,16,U,PRE051,2,2,services,services,FA051,2,0,yes,yes,3,3,4,2,13
+2003 ,2020 ,March,052,F,15,U,PRE052,4,2,health,other,FA052,2,0,yes,yes,3,3,5,2,13
+2010 ,2020 ,October,053,M,15,U,PRE053,4,2,health,health,FA053,1,1,no,no,5,5,5,6,10
+2010 ,2020 ,October,054,F,15,U,PRE054,4,4,services,services,FA054,1,0,yes,yes,3,4,5,0,11
+2010 ,2020 ,October,055,F,15,U,PRE055,3,3,other,other,FA055,1,0,no,yes,3,4,1,6,13
+2010 ,2020 ,October,056,F,16,U,PRE056,2,1,other,other,FA056,2,0,no,yes,3,4,2,8,10
+2010 ,2020 ,October,057,F,15,U,PRE057,4,3,services,services,FA057,2,0,yes,yes,3,2,1,0,15
+2010 ,2020 ,October,058,M,15,U,PRE058,4,4,teacher,health,FA058,2,0,yes,no,2,2,5,4,15
+2010 ,2020 ,October,059,M,15,U,PRE059,1,2,other,at_home,FA059,2,0,yes,yes,3,2,5,2,9
+2010 ,2020 ,October,060,F,16,U,PRE060,4,2,services,other,FA060,2,0,yes,yes,2,3,5,2,16
+2010 ,2020 ,October,061,F,16,R,PRE061,4,4,health,teacher,FA061,2,0,yes,no,4,4,4,6,11
+2010 ,2020 ,October,062,F,16,U,PRE062,1,1,services,services,FA062,1,0,yes,yes,5,5,5,6,11
+2010 ,2020 ,October,063,F,16,U,PRE063,1,2,other,services,FA063,2,0,no,yes,4,3,1,4,9
+2010 ,2020 ,October,064,F,16,U,PRE064,4,3,teacher,health,FA064,3,0,yes,yes,4,4,4,2,9
+2010 ,2020 ,October,065,F,15,U,PRE065,4,3,services,services,FA065,2,0,no,yes,4,4,2,0,10
+2010 ,2020 ,October,066,F,16,U,PRE066,4,3,teacher,services,FA066,2,0,yes,yes,4,3,1,2,15
+2010 ,2020 ,October,067,M,15,U,PRE067,4,4,other,services,FA067,4,0,yes,yes,3,3,3,4,12
+2010 ,2020 ,October,068,F,16,U,PRE068,3,1,services,other,FA068,4,0,yes,yes,3,3,5,4,6
+2010 ,2020 ,October,069,F,15,R,PRE069,2,2,health,services,FA069,2,0,yes,yes,1,3,4,2,8
+2010 ,2020 ,October,070,F,15,R,PRE070,3,1,other,other,FA070,4,0,yes,yes,4,2,3,12,16
+2010 ,2020 ,October,071,M,16,U,PRE071,3,1,other,other,FA071,4,0,yes,yes,3,2,5,0,15
+2010 ,2020 ,October,072,M,15,U,PRE072,4,2,other,other,FA072,4,0,no,yes,3,3,3,0,10
+2010 ,2020 ,October,073,F,15,R,PRE073,1,1,other,other,FA073,2,2,yes,yes,3,4,5,2,5
+2010 ,2020 ,October,074,M,16,U,PRE074,3,1,other,other,FA074,1,0,no,no,3,2,5,2,14
+2010 ,2020 ,October,075,F,16,U,PRE075,3,3,other,services,FA075,2,0,yes,yes,3,3,5,54,11
+2010 ,2020 ,October,076,M,15,U,PRE076,4,3,teacher,other,FA076,2,0,yes,yes,3,3,5,6,10
+2010 ,2020 ,October,077,M,15,U,PRE077,4,0,teacher,other,FA077,4,0,no,yes,4,3,1,8,10
+2010 ,2020 ,October,078,F,16,U,PRE078,2,2,other,other,FA078,4,0,no,yes,2,3,3,0,11
+2010 ,2020 ,October,079,M,17,U,PRE079,2,1,other,other,FA079,1,3,yes,yes,5,1,3,2,10
+2010 ,2020 ,October,080,F,16,U,PRE080,3,4,at_home,other,FA080,2,0,yes,yes,4,3,3,12,5
+2010 ,2020 ,October,081,M,15,U,PRE081,2,3,other,services,FA081,1,0,yes,yes,2,2,3,2,12
+2010 ,2020 ,October,082,M,15,U,PRE082,2,3,other,other,FA082,3,0,no,yes,3,2,5,4,11
+2010 ,2020 ,October,083,F,15,U,PRE083,3,2,services,other,FA083,2,0,yes,yes,4,4,5,10,6
+2010 ,2020 ,October,084,M,15,U,PRE084,2,2,services,services,FA084,2,0,no,yes,3,3,4,4,15
+2010 ,2020 ,October,085,F,15,U,PRE085,1,1,other,other,FA085,2,0,yes,yes,3,2,4,2,10
+2010 ,2020 ,October,086,F,15,U,PRE086,4,4,services,services,FA086,2,2,no,yes,4,4,5,6,8
+2010 ,2020 ,October,087,F,16,U,PRE087,2,2,at_home,other,FA087,2,0,yes,no,3,4,2,4,6
+2010 ,2020 ,October,088,F,15,U,PRE088,4,2,other,other,FA088,3,0,yes,yes,3,3,1,4,14
+2010 ,2020 ,October,089,M,16,U,PRE089,2,2,services,other,FA089,2,1,no,yes,4,2,3,12,10
+2010 ,2020 ,October,090,M,16,U,PRE090,4,4,teacher,health,FA090,2,0,yes,no,1,3,5,18,7
+2010 ,2020 ,October,091,F,16,U,PRE091,3,3,other,other,FA091,3,0,yes,yes,3,3,4,0,8
+2010 ,2020 ,October,092,F,15,U,PRE092,4,3,services,other,FA092,1,0,no,yes,5,5,1,4,18
+2010 ,2020 ,October,093,F,16,U,PRE093,3,1,other,other,FA093,2,0,yes,no,3,3,2,4,6
+2010 ,2020 ,October,094,F,16,U,PRE094,4,2,teacher,services,FA094,2,0,yes,yes,3,3,1,0,10
+2010 ,2020 ,October,095,M,15,U,PRE095,2,2,services,health,FA095,4,0,yes,yes,3,4,4,6,14
+2010 ,2020 ,October,096,F,15,R,PRE096,1,1,at_home,other,FA096,4,1,yes,yes,1,2,1,2,10
+2010 ,2020 ,October,097,M,16,R,PRE097,4,3,services,other,FA097,1,0,yes,yes,3,3,4,2,15
+2010 ,2020 ,October,098,F,16,U,PRE098,2,1,other,other,FA098,2,0,yes,no,3,5,5,2,10
+2010 ,2020 ,October,099,F,16,U,PRE099,4,4,other,other,FA099,1,0,no,yes,3,4,1,6,14
+2010 ,2020 ,October,100,F,16,U,PRE100,4,3,other,at_home,FA100,3,0,yes,yes,3,5,3,0,8
+2010 ,2020 ,October,101,M,16,U,PRE101,4,4,services,services,FA101,1,0,yes,yes,5,5,4,14,5
+2010 ,2020 ,October,102,M,16,U,PRE102,4,4,services,teacher,FA102,3,0,yes,yes,4,3,4,0,17
+2010 ,2020 ,October,103,M,15,U,PRE103,4,4,services,other,FA103,1,0,yes,yes,3,3,5,4,14
+2010 ,2020 ,October,104,F,15,U,PRE104,3,2,services,other,FA104,2,0,yes,yes,3,5,2,26,6
+2010 ,2020 ,October,105,M,15,U,PRE105,3,4,services,other,FA105,2,0,yes,yes,4,4,1,0,18
+2010 ,2020 ,October,106,F,15,U,PRE106,3,3,other,health,FA106,4,0,no,no,3,3,4,10,11
+2010 ,2020 ,October,107,F,15,U,PRE107,2,2,other,other,FA107,4,0,yes,yes,1,2,3,8,8
+2010 ,2020 ,October,108,M,16,U,PRE108,3,3,services,other,FA108,3,0,yes,yes,3,3,5,2,18
+2010 ,2020 ,October,109,M,15,R,PRE109,4,4,other,other,FA109,4,0,yes,yes,3,5,1,6,13
+2010 ,2020 ,October,110,F,16,U,PRE110,4,4,health,health,FA110,3,0,yes,yes,4,5,4,4,16
+2010 ,2020 ,October,111,M,15,U,PRE111,4,4,teacher,teacher,FA111,1,0,no,yes,5,3,4,6,19
+2010 ,2020 ,October,112,F,16,R,PRE112,3,3,services,other,FA112,3,1,yes,yes,1,2,2,0,10
+2010 ,2020 ,October,113,F,16,U,PRE113,2,2,at_home,other,FA113,2,1,no,yes,1,2,5,6,13
+2010 ,2020 ,October,114,M,15,U,PRE114,4,2,teacher,other,FA114,1,0,no,yes,5,2,3,10,19
+2010 ,2020 ,October,115,M,15,R,PRE115,2,1,health,services,FA115,2,0,no,yes,4,2,5,8,9
+2010 ,2020 ,October,116,M,16,U,PRE116,4,4,teacher,teacher,FA116,2,0,yes,yes,4,4,5,2,16
+2010 ,2020 ,October,117,M,15,U,PRE117,4,4,other,teacher,FA117,2,0,yes,no,4,3,2,2,14
+2010 ,2020 ,October,118,M,16,U,PRE118,3,3,other,services,FA118,1,0,no,yes,4,2,5,0,13
+2010 ,2020 ,October,119,M,17,R,PRE119,1,3,other,other,FA119,2,1,yes,yes,2,4,5,20,8
+2010 ,2020 ,October,120,M,15,U,PRE120,3,4,other,other,FA120,1,0,no,yes,4,3,4,6,13
+2010 ,2020 ,October,121,F,15,U,PRE121,1,2,at_home,services,FA121,2,0,no,yes,2,3,1,2,15
+2010 ,2020 ,October,122,M,15,U,PRE122,2,2,services,services,FA122,4,0,yes,yes,5,4,5,6,15
+2010 ,2020 ,October,123,F,16,U,PRE123,2,4,other,health,FA123,2,0,yes,yes,2,2,5,2,13
+2010 ,2020 ,October,124,M,16,U,PRE124,4,4,health,other,FA124,1,0,yes,yes,4,4,5,18,13
+2010 ,2020 ,October,125,F,16,U,PRE125,2,2,other,other,FA125,2,0,no,yes,4,4,5,0,8
+2010 ,2020 ,October,126,M,15,U,PRE126,3,4,services,services,FA126,1,0,no,yes,5,5,5,0,12
+2010 ,2020 ,October,127,F,15,U,PRE127,3,4,other,other,FA127,2,0,no,yes,3,2,1,0,11
+2010 ,2020 ,October,128,F,19,U,PRE128,0,1,at_home,other,FA128,2,3,yes,no,4,2,5,2,9
+2010 ,2020 ,October,129,M,18,R,PRE129,2,2,services,other,FA129,1,2,yes,yes,3,3,4,0,0
+2010 ,2020 ,October,130,M,16,R,PRE130,4,4,teacher,teacher,FA130,1,0,no,yes,5,5,4,8,18
+2010 ,2020 ,October,131,F,15,R,PRE131,3,4,services,teacher,FA131,3,2,yes,yes,2,2,5,0,0
+2103 ,2021,March,132,F,15,U,PRE132,1,1,at_home,other,FA132,1,0,yes,yes,3,3,4,0,0
+2103 ,2021,March,133,F,17,U,PRE133,2,2,other,other,FA133,1,0,yes,yes,4,4,5,12,12
+2103 ,2021,March,134,F,16,U,PRE134,3,4,services,other,FA134,1,0,no,yes,2,1,5,16,11
+2103 ,2021,March,135,M,15,R,PRE135,3,4,at_home,teacher,FA135,2,0,yes,no,3,3,5,0,0
+2103 ,2021,March,136,F,15,U,PRE136,4,4,services,at_home,FA136,3,0,yes,yes,3,3,5,0,0
+2103 ,2021,March,137,M,17,R,PRE137,3,4,at_home,other,FA137,2,0,no,no,4,5,5,0,0
+2103 ,2021,March,138,F,16,U,PRE138,3,3,other,other,FA138,1,2,yes,yes,3,2,5,0,0
+2103 ,2021,March,139,M,16,U,PRE139,1,1,services,other,FA139,2,1,no,no,4,4,5,0,12
+2103 ,2021,March,140,F,15,U,PRE140,4,4,teacher,teacher,FA140,1,0,no,yes,3,2,5,0,15
+2103 ,2021,March,141,M,15,U,PRE141,4,3,teacher,services,FA141,4,0,yes,yes,2,2,3,0,0
+2103 ,2021,March,142,M,16,U,PRE142,2,2,services,services,FA142,1,2,yes,yes,3,3,2,8,9
+2103 ,2021,March,143,F,15,U,PRE143,4,4,teacher,services,FA143,3,0,yes,yes,2,2,5,2,11
+2103 ,2021,March,144,F,16,U,PRE144,1,1,at_home,at_home,FA144,1,0,no,yes,4,4,1,2,13
+2103 ,2021,March,145,M,17,U,PRE145,2,1,other,other,FA145,1,3,yes,yes,4,5,5,0,0
+2103 ,2021,March,146,F,15,U,PRE146,1,1,other,services,FA146,2,0,yes,yes,4,2,5,0,11
+2103 ,2021,March,147,F,15,U,PRE147,3,2,health,services,FA147,2,3,yes,yes,3,2,3,0,0
+2103 ,2021,March,148,F,15,U,PRE148,1,2,at_home,other,FA148,2,0,yes,yes,3,2,5,2,11
+2103 ,2021,March,149,M,16,U,PRE149,4,4,teacher,teacher,FA149,1,0,yes,yes,3,2,5,0,0
+2103 ,2021,March,150,M,15,U,PRE150,2,1,services,other,FA150,1,3,no,yes,5,5,5,0,10
+2103 ,2021,March,151,M,18,U,PRE151,1,1,other,other,FA151,1,3,no,yes,3,5,4,0,0
+2103 ,2021,March,152,M,16,U,PRE152,2,1,at_home,other,FA152,1,1,no,no,4,4,5,6,14
+2103 ,2021,March,153,F,15,R,PRE153,3,3,services,services,FA153,3,2,yes,yes,2,1,3,8,10
+2103 ,2021,March,154,M,19,U,PRE154,3,2,services,at_home,FA154,1,3,yes,yes,5,4,4,0,0
+2103 ,2021,March,155,F,17,U,PRE155,4,4,other,teacher,FA155,1,0,yes,no,2,1,4,0,12
+2103 ,2021,March,156,M,15,R,PRE156,2,3,at_home,services,FA156,2,0,no,no,4,4,1,2,8
+2103 ,2021,March,157,M,17,R,PRE157,1,2,other,other,FA157,1,0,no,no,2,2,5,8,13
+2103 ,2021,March,158,F,18,R,PRE158,1,1,at_home,other,FA158,1,3,yes,no,2,5,4,6,10
+2103 ,2021,March,159,M,16,R,PRE159,2,2,at_home,other,FA159,1,0,no,no,2,2,3,2,15
+2103 ,2021,March,160,M,16,U,PRE160,3,3,other,services,FA160,2,1,yes,yes,5,5,5,4,12
+2103 ,2021,March,161,M,17,R,PRE161,2,1,at_home,other,FA161,1,2,no,yes,3,2,5,0,0
+2103 ,2021,March,162,M,15,R,PRE162,3,2,other,other,FA162,2,2,yes,yes,4,4,3,6,7
+2103 ,2021,March,163,M,16,U,PRE163,1,2,other,other,FA163,1,1,no,no,4,4,5,0,0
+2103 ,2021,March,164,M,17,U,PRE164,1,3,at_home,services,FA164,1,0,no,yes,3,3,2,2,10
+2103 ,2021,March,165,M,17,R,PRE165,1,1,other,services,FA165,2,3,no,no,3,5,5,0,7
+2103 ,2021,March,166,M,16,U,PRE166,3,2,services,services,FA166,1,1,yes,no,5,2,2,16,12
+2103 ,2021,March,167,M,16,U,PRE167,2,2,other,other,FA167,2,0,no,yes,3,5,4,4,10
+2103 ,2021,March,168,F,16,U,PRE168,4,2,health,services,FA168,2,0,no,yes,2,3,3,0,16
+2103 ,2021,March,169,F,16,U,PRE169,2,2,other,other,FA169,2,0,yes,yes,1,5,4,0,0
+2103 ,2021,March,170,F,16,U,PRE170,4,4,health,health,FA170,2,0,yes,yes,4,2,3,0,14
+2103 ,2021,March,171,M,16,U,PRE171,3,4,other,other,FA171,1,2,yes,yes,4,5,2,0,0
+2103 ,2021,March,172,M,16,U,PRE172,1,0,other,other,FA172,2,0,yes,yes,3,2,3,2,16
+2103 ,2021,March,173,M,17,U,PRE173,4,4,teacher,other,FA173,2,0,yes,yes,4,4,5,0,10
+2103 ,2021,March,174,F,16,U,PRE174,1,3,at_home,services,FA174,2,3,no,yes,3,5,3,0,0
+2103 ,2021,March,175,F,16,U,PRE175,3,3,other,other,FA175,2,0,yes,yes,4,5,4,4,9
+2103 ,2021,March,176,M,17,U,PRE176,4,3,teacher,other,FA176,2,0,no,yes,4,4,4,4,9
+2103 ,2021,March,177,F,16,U,PRE177,2,2,services,other,FA177,2,0,no,yes,4,4,5,2,11
+2103 ,2021,March,178,M,17,U,PRE178,3,3,other,other,FA178,2,0,no,yes,3,4,4,4,6
+2103 ,2021,March,179,M,16,R,PRE179,4,2,teacher,services,FA179,1,0,yes,yes,3,3,3,10,9
+2103 ,2021,March,180,M,17,U,PRE180,4,3,other,other,FA180,2,0,yes,yes,2,3,2,4,11
+2103 ,2021,March,181,M,16,U,PRE181,4,3,teacher,other,FA181,2,0,yes,yes,4,3,3,10,8
+2103 ,2021,March,182,M,16,U,PRE182,3,3,services,other,FA182,2,0,no,yes,2,3,3,2,12
+2103 ,2021,March,183,F,17,U,PRE183,2,4,services,services,FA183,2,0,yes,no,4,2,5,0,17
+2103 ,2021,March,184,F,17,U,PRE184,3,3,other,other,FA184,2,0,yes,yes,3,3,1,56,8
+2103 ,2021,March,185,F,16,U,PRE185,3,2,other,other,FA185,2,0,yes,yes,2,2,1,14,12
+2103 ,2021,March,186,M,17,U,PRE186,3,3,services,services,FA186,2,0,yes,yes,3,4,4,12,11
+2103 ,2021,March,187,M,16,U,PRE187,1,2,services,services,FA187,1,0,yes,yes,3,3,3,2,11
+2103 ,2021,March,188,M,16,U,PRE188,2,1,other,other,FA188,2,0,no,yes,2,3,5,0,15
+2103 ,2021,March,189,F,17,U,PRE189,3,3,health,other,FA189,2,0,yes,yes,3,3,3,6,9
+2103 ,2021,March,190,M,17,R,PRE190,1,2,at_home,other,FA190,2,0,no,no,1,3,3,4,10
+2103 ,2021,March,191,F,16,U,PRE191,2,3,services,services,FA191,2,0,no,yes,3,3,2,10,13
+2103 ,2021,March,192,F,17,U,PRE192,1,1,at_home,services,FA192,2,0,no,yes,3,3,3,0,9
+2103 ,2021,March,193,M,17,U,PRE193,1,2,at_home,services,FA193,2,0,no,yes,4,4,5,12,8
+2103 ,2021,March,194,M,16,R,PRE194,3,3,services,services,FA194,1,0,yes,yes,3,2,5,8,10
+2103 ,2021,March,195,M,16,U,PRE195,2,3,other,other,FA195,1,0,no,yes,3,3,3,0,14
+2110 ,2021,October,196,F,50,U,PRE196,2,4,services,services,FA196,2,0,no,yes,3,2,5,0,15
+2110 ,2021,October,197,M,17,U,PRE197,4,4,services,teacher,FA197,1,0,no,yes,2,3,5,4,16
+2110 ,2021,October,198,M,16,R,PRE198,3,3,teacher,other,FA198,1,0,yes,yes,3,4,3,8,10
+2110 ,2021,October,199,F,17,U,PRE199,4,4,services,teacher,FA199,1,1,yes,yes,2,4,2,24,18
+2110 ,2021,October,200,F,16,U,PRE200,4,4,teacher,teacher,FA200,2,0,yes,yes,5,2,3,0,10
+2110 ,2021,October,201,F,16,U,PRE201,4,3,health,other,FA201,2,0,yes,yes,3,5,2,2,16
+2110 ,2021,October,202,F,16,U,PRE202,2,3,other,other,FA202,2,0,yes,no,4,3,4,6,10
+2110 ,2021,October,203,F,17,U,PRE203,1,1,other,other,FA203,2,0,yes,no,4,4,1,4,10
+2110 ,2021,October,204,F,17,R,PRE204,2,2,other,other,FA204,1,0,yes,yes,3,2,3,18,6
+2110 ,2021,October,205,F,16,R,PRE205,2,2,services,services,FA205,4,0,yes,yes,3,5,5,6,11
+2110 ,2021,October,206,F,17,U,PRE206,3,4,at_home,services,FA206,3,1,yes,yes,4,3,5,28,9
+2110 ,2021,October,207,F,16,U,PRE207,3,1,services,other,FA207,2,3,yes,yes,3,3,4,5,7
+2110 ,2021,October,208,F,16,U,PRE208,4,3,teacher,other,FA208,2,0,no,yes,3,2,1,10,13
+2110 ,2021,October,209,F,16,U,PRE209,1,1,at_home,other,FA209,1,0,yes,no,3,2,5,6,10
+2110 ,2021,October,210,F,17,R,PRE210,4,3,teacher,other,FA210,3,0,yes,yes,4,2,4,6,7
+2110 ,2021,October,211,F,19,U,PRE211,3,3,other,other,FA211,4,0,yes,yes,3,3,3,10,8
+2110 ,2021,October,212,M,17,U,PRE212,4,4,services,other,FA212,2,0,yes,yes,3,5,3,13,13
+2110 ,2021,October,213,F,16,U,PRE213,2,2,other,other,FA213,2,0,yes,yes,3,4,4,0,14
+2110 ,2021,October,214,M,18,U,PRE214,2,2,services,other,FA214,2,1,yes,yes,4,4,5,15,8
+2110 ,2021,October,215,F,17,R,PRE215,4,4,services,other,FA215,1,0,yes,no,2,1,3,12,10
+2110 ,2021,October,216,F,17,U,PRE216,3,2,other,other,FA216,2,0,no,yes,4,4,1,2,15
+2110 ,2021,October,217,F,17,U,PRE217,4,3,other,other,FA217,2,2,no,yes,4,5,1,22,4
+2110 ,2021,October,218,M,18,U,PRE218,3,3,services,health,FA218,2,1,yes,yes,2,4,4,13,8
+2110 ,2021,October,219,F,17,U,PRE219,2,3,at_home,other,FA219,1,0,yes,no,3,3,3,3,8
+2110 ,2021,October,220,F,17,U,PRE220,2,2,at_home,at_home,FA220,3,0,yes,yes,3,3,4,4,10
+2110 ,2021,October,221,F,17,R,PRE221,2,1,at_home,services,FA221,2,0,yes,yes,2,5,5,2,6
+2110 ,2021,October,222,F,17,U,PRE222,1,1,at_home,other,FA222,3,1,yes,no,3,4,5,0,0
+2110 ,2021,October,223,F,16,U,PRE223,2,3,services,teacher,FA223,2,0,no,yes,3,1,3,2,17
+2110 ,2021,October,224,M,18,U,PRE224,2,2,other,other,FA224,2,0,yes,yes,3,3,4,0,13
+2110 ,2021,October,225,F,16,U,PRE225,4,4,teacher,services,FA225,3,0,yes,yes,3,2,5,0,14
+2110 ,2021,October,226,F,18,R,PRE226,3,1,other,other,FA226,2,1,no,yes,3,3,4,16,7
+2110 ,2021,October,227,F,17,U,PRE227,3,2,other,other,FA227,2,0,no,yes,3,4,3,10,15
+2110 ,2021,October,228,M,17,U,PRE228,2,3,services,services,FA228,2,0,yes,yes,3,3,3,2,12
+2110 ,2021,October,229,M,18,U,PRE229,2,1,at_home,other,FA229,2,0,yes,yes,3,2,3,14,9
+2110 ,2021,October,230,F,17,U,PRE230,2,1,other,other,FA230,3,0,no,yes,2,3,3,10,12
+2110 ,2021,October,231,F,17,U,PRE231,4,3,health,other,FA231,2,0,no,yes,2,3,3,14,14
+2110 ,2021,October,232,M,17,R,PRE232,2,2,other,other,FA232,2,0,yes,yes,5,2,1,4,11
+2110 ,2021,October,233,M,17,U,PRE233,4,4,teacher,teacher,FA233,2,0,yes,yes,5,5,2,14,9
+2110 ,2021,October,234,M,16,U,PRE234,4,4,health,other,FA234,2,0,yes,yes,2,4,1,2,13
+2110 ,2021,October,235,M,16,U,PRE235,1,1,other,other,FA235,2,0,yes,yes,4,2,5,18,6
+2110 ,2021,October,236,M,16,U,PRE236,3,2,at_home,other,FA236,3,0,no,yes,3,3,2,10,10
+2110 ,2021,October,237,M,17,U,PRE237,2,2,other,other,FA237,2,0,no,yes,4,2,4,4,13
+2110 ,2021,October,238,F,16,U,PRE238,2,1,other,other,FA238,1,0,no,yes,5,2,5,20,12
+2110 ,2021,October,239,F,17,R,PRE239,2,1,at_home,services,FA239,2,0,no,no,1,1,3,2,11
+2110 ,2021,October,240,M,18,U,PRE240,2,2,other,services,FA240,2,1,no,yes,5,4,2,0,0
+2110 ,2021,October,241,M,17,U,PRE241,4,3,health,other,FA241,2,0,no,yes,5,5,5,14,12
+2110 ,2021,October,242,M,17,R,PRE242,4,4,teacher,other,FA242,2,0,yes,yes,3,3,4,2,12
+2110 ,2021,October,243,M,16,U,PRE243,4,3,teacher,other,FA243,1,0,no,yes,4,5,3,0,0
+2110 ,2021,October,244,M,16,U,PRE244,4,4,services,services,FA244,1,0,no,yes,3,2,5,0,12
+2110 ,2021,October,245,F,18,U,PRE245,2,1,other,other,FA245,3,0,yes,yes,4,4,3,0,0
+2110 ,2021,October,246,M,16,U,PRE246,2,1,other,other,FA246,1,0,no,yes,3,3,4,6,18
+2110 ,2021,October,247,M,17,U,PRE247,2,3,other,other,FA247,1,0,no,yes,2,2,2,4,13
+2110 ,2021,October,248,M,22,U,PRE248,3,1,services,services,FA248,1,3,no,yes,4,5,1,16,8
+2110 ,2021,October,249,M,18,R,PRE249,3,3,other,services,FA249,2,1,yes,yes,3,3,5,8,5
+2110 ,2021,October,250,M,,U,PRE250,0,2,other,other,FA250,1,0,no,yes,3,2,5,0,15
+2110 ,2021,October,251,M,18,U,PRE251,3,2,services,other,FA251,1,1,no,yes,4,5,5,0,8
+2110 ,2021,October,252,M,16,U,PRE252,3,3,at_home,other,FA252,2,0,yes,yes,3,3,2,6,10
+2110 ,2021,October,253,M,18,U,PRE253,2,1,services,services,FA253,1,1,no,yes,2,5,5,4,8
+2110 ,2021,October,254,M,16,R,PRE254,2,1,other,other,FA254,1,0,no,no,3,2,3,0,8
+2110 ,2021,October,255,M,17,R,PRE255,2,1,other,other,FA255,1,0,no,yes,4,2,5,0,12
+2110 ,2021,October,256,M,17,U,PRE256,1,1,health,other,FA256,1,1,yes,yes,4,4,5,2,8
+2110 ,2021,October,257,F,17,U,PRE257,4,2,teacher,services,FA257,4,0,yes,yes,2,3,4,6,13
+2110 ,2021,October,258,M,19,U,PRE258,4,3,services,at_home,FA258,2,0,yes,yes,3,1,1,12,11
+2110 ,2021,October,259,M,18,U,PRE259,2,1,other,other,FA259,2,0,no,yes,2,4,4,8,14
+2110 ,2021,October,260,F,17,U,PRE260,2,2,services,services,FA260,4,0,no,yes,4,1,2,0,0
+2110 ,2021,October,261,F,18,U,PRE261,4,3,services,other,FA261,2,0,yes,yes,1,2,2,21,18
+2110 ,2021,October,262,M,18,U,PRE262,4,3,teacher,other,FA262,2,0,yes,yes,3,2,3,2,8
+2110 ,2021,October,263,M,18,R,PRE263,3,2,other,other,FA263,3,0,no,no,3,2,3,1,12
+2110 ,2021,October,264,F,17,U,PRE264,3,3,other,other,FA264,3,0,no,no,2,3,4,4,9
+2203 ,2022,March,265,F,18,U,PRE265,2,2,at_home,services,FA265,3,0,yes,yes,3,3,3,0,0
+2203 ,2022,March,266,M,18,R,PRE266,3,4,other,other,FA266,2,0,yes,yes,2,5,1,13,17
+2203 ,2022,March,267,M,17,U,PRE267,3,1,services,other,FA267,2,0,no,yes,4,4,5,2,10
+2203 ,2022,March,268,F,18,R,PRE268,4,4,teacher,other,FA268,2,0,no,yes,3,4,4,8,11
+2203 ,2022,March,269,M,18,U,PRE269,4,2,health,other,FA269,2,0,yes,yes,4,5,5,10,10
+2203 ,2022,March,270,F,18,R,PRE270,2,1,other,other,FA270,2,0,yes,yes,3,5,3,0,0
+2203 ,2022,March,271,F,19,U,PRE271,3,3,other,services,FA271,2,2,yes,yes,3,5,5,15,9
+2203 ,2022,March,272,F,18,U,PRE272,2,3,other,services,FA272,4,0,yes,yes,5,5,2,4,14
+2203 ,2022,March,273,F,18,U,PRE273,1,1,other,other,FA273,2,0,yes,no,4,3,3,2,11
+2203 ,2022,March,274,M,17,R,PRE274,1,2,at_home,at_home,FA274,2,0,yes,no,5,2,1,2,14
+2203 ,2022,March,275,F,17,U,PRE275,2,4,at_home,health,FA275,2,0,yes,yes,3,3,1,2,10
+2203 ,2022,March,276,F,17,U,PRE276,2,2,services,other,FA276,2,0,yes,yes,4,4,5,6,12
+2203 ,2022,March,277,F,18,R,PRE277,3,2,other,services,FA277,2,0,no,yes,1,1,5,75,9
+2203 ,2022,March,278,M,18,U,PRE278,4,4,teacher,services,FA278,1,0,no,yes,2,4,3,22,9
+2203 ,2022,March,279,F,18,U,PRE279,4,4,health,health,FA279,2,1,yes,yes,4,4,4,15,8
+2203 ,2022,March,280,M,18,U,PRE280,4,3,teacher,services,FA280,1,0,no,yes,2,3,1,8,10
+2203 ,2022,March,281,M,17,U,PRE281,4,1,services,other,FA281,1,0,no,yes,5,4,5,30,8
+2203 ,2022,March,282,M,17,U,PRE282,3,2,teacher,services,FA282,1,1,no,yes,4,4,3,19,10
+2203 ,2022,March,283,F,18,R,PRE283,,1,at_home,other,FA283,4,0,yes,no,2,2,3,1,12
+2203 ,2022,March,284,F,18,U,PRE284,1,1,other,other,FA284,2,0,no,yes,4,4,4,4,10
+2203 ,2022,March,285,F,17,U,PRE285,2,2,other,other,FA285,2,0,yes,yes,4,5,5,4,11
+2203 ,2022,March,286,M,17,U,PRE286,1,1,other,other,FA286,2,0,no,yes,3,3,4,2,11
+2203 ,2022,March,287,F,18,U,PRE287,2,2,at_home,at_home,FA287,3,0,yes,yes,3,3,2,5,19
+2203 ,2022,March,288,F,17,U,PRE288,1,1,services,teacher,FA288,3,0,yes,yes,3,3,3,6,12
+2203 ,2022,March,289,M,18,U,PRE289,2,1,services,services,FA289,3,0,no,yes,2,4,2,6,14
+2203 ,2022,March,290,M,18,U,PRE290,4,4,teacher,teacher,FA290,2,0,yes,yes,4,3,2,9,15
+2203 ,2022,March,291,M,18,U,PRE291,4,2,teacher,other,FA291,2,0,yes,yes,3,2,5,11,11
+2203 ,2022,March,292,F,17,U,PRE292,4,3,health,services,FA292,3,0,yes,yes,2,2,3,0,15
+2203 ,2022,March,293,F,18,U,PRE293,2,1,services,at_home,FA293,2,1,no,yes,4,3,5,12,13
+2203 ,2022,March,294,F,17,R,PRE294,3,,services,other,FA294,4,0,yes,no,1,2,3,6,18
+2203 ,2022,March,295,M,18,R,PRE295,3,2,services,other,FA295,3,0,yes,yes,4,2,4,8,14
+2203 ,2022,March,296,M,17,U,PRE296,3,3,health,other,FA296,1,0,yes,yes,4,3,5,4,11
+2203 ,2022,March,297,F,19,U,PRE297,4,4,health,other,FA297,2,0,yes,yes,3,4,2,0,0
+2203 ,2022,March,298,F,18,U,PRE298,4,3,other,other,FA298,2,0,yes,yes,4,5,2,10,8
+2203 ,2022,March,299,F,18,U,PRE299,4,3,other,other,FA299,4,0,yes,yes,3,3,3,0,14
+2203 ,2022,March,300,M,18,U,PRE300,4,4,teacher,teacher,FA300,1,0,yes,yes,4,2,1,5,16
+2203 ,2022,March,301,F,18,U,PRE301,4,4,health,other,FA301,2,0,yes,yes,2,4,4,14,11
+2203 ,2022,March,302,M,17,U,PRE302,4,4,other,teacher,FA302,1,0,no,yes,1,1,5,0,10
+2203 ,2022,March,303,F,17,U,PRE303,4,2,other,other,FA303,3,0,yes,yes,3,3,3,0,14
+2203 ,2022,March,304,F,17,U,PRE304,3,2,health,health,FA304,4,0,yes,yes,2,2,5,0,18
+2203 ,2022,March,305,M,19,U,PRE305,3,3,other,other,FA305,2,1,yes,yes,4,4,3,20,13
+2203 ,2022,March,306,F,18,U,PRE306,2,4,services,at_home,FA306,2,1,yes,yes,4,3,3,8,12
+2203 ,2022,March,307,M,20,U,PRE307,3,2,services,other,FA307,1,0,no,no,5,3,5,0,18
+2203 ,2022,March,308,M,19,U,PRE308,4,4,teacher,services,FA308,1,1,yes,yes,3,4,4,38,8
+2203 ,2022,March,309,M,19,R,PRE309,3,3,other,services,FA309,2,1,no,no,5,3,5,0,12
+2203 ,2022,March,310,F,19,U,PRE310,1,1,at_home,other,FA310,2,1,yes,yes,4,3,3,18,10
+2203 ,2022,March,311,F,19,U,PRE311,1,2,services,services,FA311,2,1,no,no,2,4,3,0,0
+2203 ,2022,March,312,F,19,U,PRE312,2,1,at_home,other,FA312,2,0,yes,yes,4,1,2,20,13
+2203 ,2022,March,313,M,19,U,PRE313,1,2,other,services,FA313,2,1,no,yes,5,2,4,3,11
+2203 ,2022,March,314,F,19,U,PRE314,3,2,services,other,FA314,2,1,yes,yes,2,2,1,22,11
+2203 ,2022,March,315,F,19,U,PRE315,1,1,at_home,health,FA315,3,2,no,yes,1,2,3,14,13
+2203 ,2022,March,316,F,19,R,PRE316,2,3,other,other,FA316,3,1,no,yes,1,2,3,40,11
+2203 ,2022,March,317,F,18,U,PRE317,2,1,services,other,FA317,2,0,yes,yes,3,3,1,0,0
+2210 ,2022,October,318,F,18,U,PRE318,4,3,other,other,FA318,3,0,yes,yes,3,4,5,9,9
+2210 ,2022,October,319,F,17,R,PRE319,3,4,at_home,services,FA319,3,0,yes,yes,3,4,5,0,10
+2210 ,2022,October,320,F,18,U,PRE320,4,4,teacher,other,FA320,2,0,yes,yes,4,4,5,2,11
+2210 ,2022,October,321,F,17,U,PRE321,4,3,services,services,FA321,2,0,yes,yes,2,2,5,23,13
+2210 ,2022,October,322,F,17,U,PRE322,2,2,other,other,FA322,2,0,yes,no,2,2,3,12,9
+2210 ,2022,October,323,F,17,R,PRE323,2,2,services,services,FA323,3,0,yes,yes,3,2,3,3,11
+2210 ,2022,October,324,F,17,U,PRE324,3,1,services,services,FA324,3,0,yes,yes,4,3,5,1,15
+2210 ,2022,October,325,F,17,U,PRE325,0,2,at_home,at_home,FA325,3,0,no,yes,3,3,2,0,15
+2210 ,2022,October,326,M,18,U,PRE326,4,4,other,other,FA326,3,0,no,yes,3,3,3,3,11
+2210 ,2022,October,327,M,17,U,PRE327,3,3,other,services,FA327,1,0,no,yes,3,5,5,3,16
+2210 ,2022,October,328,M,17,R,PRE328,2,2,services,other,FA328,1,0,yes,yes,4,5,4,8,10
+2210 ,2022,October,329,F,17,U,PRE329,4,4,teacher,services,FA329,3,0,yes,yes,4,4,4,7,9
+2210 ,2022,October,330,F,17,U,PRE330,4,4,teacher,teacher,FA330,3,0,yes,yes,3,3,4,4,14
+2210 ,2022,October,331,M,18,U,PRE331,2,2,other,other,FA331,4,0,yes,yes,5,5,5,2,8
+2210 ,2022,October,332,F,17,R,PRE332,2,4,at_home,other,FA332,3,0,yes,yes,4,3,5,7,14
+2210 ,2022,October,333,F,18,U,PRE333,3,3,services,services,FA333,2,0,no,yes,3,4,4,0,0
+2210 ,2022,October,334,F,18,U,PRE334,2,2,other,other,FA334,2,0,no,yes,3,3,2,0,0
+2210 ,2022,October,335,F,18,R,PRE335,2,2,at_home,other,FA335,4,0,no,no,4,4,4,0,0
+2210 ,2022,October,336,F,17,U,PRE336,3,4,services,other,FA336,3,0,no,yes,4,5,5,16,15
+2210 ,2022,October,337,F,19,R,PRE337,3,1,services,at_home,FA337,3,1,no,no,4,3,5,12,13
+2210 ,2022,October,338,F,17,U,PRE338,3,2,other,other,FA338,2,0,yes,yes,3,2,2,0,0
+2210 ,2022,October,339,F,18,U,PRE339,3,3,services,services,FA339,4,0,yes,yes,3,3,1,7,17
+2210 ,2022,October,340,F,17,R,PRE340,3,2,other,other,FA340,2,0,yes,yes,3,3,2,4,10
+2210 ,2022,October,341,F,19,U,PRE341,2,1,services,services,FA341,3,1,no,yes,3,4,3,4,11
+2210 ,2022,October,342,M,18,U,PRE342,4,4,teacher,services,FA342,2,1,yes,yes,3,3,2,0,0
+2210 ,2022,October,343,M,18,U,PRE343,3,4,services,other,FA343,2,0,no,yes,3,3,5,11,15
+2210 ,2022,October,344,F,17,U,PRE344,2,2,at_home,at_home,FA344,2,1,yes,yes,3,1,4,0,0
+2210 ,2022,October,345,F,18,U,PRE345,2,3,at_home,other,FA345,3,0,yes,yes,3,3,3,4,10
+2210 ,2022,October,346,F,18,U,PRE346,3,2,other,services,FA346,3,0,no,yes,4,3,1,7,14
+2210 ,2022,October,347,M,18,R,PRE347,4,3,teacher,services,FA347,3,0,no,yes,3,2,4,9,16
+2210 ,2022,October,348,M,18,U,PRE348,4,3,teacher,other,FA348,3,0,yes,yes,4,5,5,0,9
+2210 ,2022,October,349,,17,U,PRE349,4,3,health,other,FA349,3,0,yes,yes,4,3,4,0,15
+2210 ,2022,October,350,M,18,R,PRE350,3,2,other,other,FA350,1,1,yes,yes,5,5,5,10,13
+2210 ,2022,October,351,M,19,R,PRE351,1,1,other,services,FA351,2,3,no,yes,4,4,2,8,8
+2210 ,2022,October,352,M,17,U,PRE352,3,3,health,other,FA352,2,0,yes,yes,5,4,3,2,13
+2210 ,2022,October,353,M,18,U,PRE353,1,3,at_home,services,FA353,1,1,no,yes,3,3,3,7,8
+2210 ,2022,October,354,M,19,R,PRE354,1,1,other,other,FA354,,1,yes,yes,4,4,5,4,8
+2210 ,2022,October,355,M,17,R,PRE355,4,3,services,other,FA355,2,0,yes,yes,5,5,2,4,11
+2210 ,2022,October,356,F,18,U,PRE356,3,3,services,services,FA356,2,0,yes,no,3,4,5,0,9
+2210 ,2022,October,357,F,17,R,PRE357,4,4,teacher,services,FA357,2,0,yes,yes,3,3,5,4,13
+2210 ,2022,October,358,F,17,U,PRE358,3,2,services,other,FA358,2,0,no,no,2,3,5,2,11
+2210 ,2022,October,359,M,18,U,PRE359,1,1,other,services,FA359,1,0,no,yes,3,2,3,4,10
+2210 ,2022,October,360,F,18,U,PRE360,1,1,at_home,services,FA360,3,0,no,yes,3,2,4,0,16
+2210 ,2022,October,361,F,18,R,PRE361,1,4,at_home,other,FA361,2,0,no,no,3,4,5,0,13
+2210 ,2022,October,362,M,18,R,PRE362,1,1,at_home,other,FA362,2,1,no,no,4,3,5,2,12
+2210 ,2022,October,363,F,18,U,PRE363,3,3,services,services,FA363,2,0,yes,yes,3,2,3,0,10
+2210 ,2022,October,364,F,17,U,PRE364,4,4,at_home,at_home,FA364,2,0,yes,yes,3,4,1,0,15
+2210 ,2022,October,365,F,17,R,PRE365,1,2,other,services,FA365,2,0,no,no,2,2,3,0,12
+2210 ,2022,October,366,M,18,R,PRE366,1,3,at_home,other,FA366,2,0,yes,no,3,4,3,4,10
+2210 ,2022,October,367,M,18,U,PRE367,4,4,teacher,services,FA367,3,0,no,yes,2,2,5,0,13
+2210 ,2022,October,368,F,17,R,PRE368,1,1,other,services,FA368,1,1,yes,yes,2,1,,0,0
+2210 ,2022,October,369,F,18,U,PRE369,2,3,at_home,services,FA369,1,0,yes,yes,2,3,4,0,10
+2210 ,2022,October,370,F,18,R,PRE370,4,4,other,teacher,FA370,2,0,yes,yes,2,2,5,10,11
+2210 ,2022,October,371,F,19,U,PRE371,3,2,services,services,FA371,2,2,no,no,2,2,3,4,9
+2210 ,2022,October,372,M,18,R,PRE372,1,2,at_home,services,FA372,1,0,yes,yes,3,3,3,3,12
+2210 ,2022,October,373,F,17,U,PRE373,2,2,other,at_home,FA373,3,0,no,no,4,3,3,8,11
+2210 ,2022,October,374,F,17,R,PRE374,1,2,other,other,FA374,1,0,no,yes,5,5,1,14,5
+2210 ,2022,October,375,F,18,R,PRE375,4,4,other,other,FA375,3,0,no,yes,4,4,1,0,19
+2210 ,2022,October,376,F,18,R,PRE376,1,1,other,other,FA376,3,0,no,yes,3,2,4,2,10
+2210 ,2022,October,377,F,20,U,PRE377,4,2,health,other,FA377,3,2,yes,yes,4,3,3,4,15
+2210 ,2022,October,378,F,18,R,PRE378,4,4,teacher,services,FA378,2,0,no,yes,4,3,2,4,10
+2210 ,2022,October,379,F,18,U,PRE379,3,3,other,other,FA379,2,0,no,yes,1,3,1,0,15
+2210 ,2022,October,380,F,17,R,PRE380,3,1,at_home,other,FA380,2,0,yes,yes,5,4,1,17,10
+2210 ,2022,October,381,M,18,U,PRE381,4,4,teacher,teacher,FA381,2,0,no,yes,2,4,2,4,14
+2210 ,2022,October,382,M,18,R,PRE382,2,1,other,other,FA382,1,0,no,yes,4,3,5,5,7
+2210 ,2022,October,383,M,17,U,PRE383,2,3,other,services,FA383,2,0,no,yes,4,3,3,2,10
+2210 ,2022,October,384,M,19,R,PRE384,1,1,other,services,FA384,1,1,no,no,3,2,5,0,0
+2210 ,2022,October,385,M,18,R,PRE385,4,2,other,other,FA385,1,1,no,no,4,3,3,14,5
+2210 ,2022,October,386,F,18,R,PRE386,2,2,at_home,other,FA386,3,0,no,no,3,3,4,2,10
+2210 ,2022,October,387,F,18,R,PRE387,4,4,teacher,at_home,FA387,1,0,yes,yes,4,3,5,7,6
+2210 ,2022,October,388,F,19,R,PRE388,2,3,services,other,FA388,3,1,no,yes,4,2,5,0,0
+2210 ,2022,October,389,F,18,U,PRE389,3,1,teacher,services,FA389,2,0,yes,yes,3,4,1,0,8
+2210 ,2022,October,390,F,18,U,PRE390,1,1,other,other,FA390,2,1,no,no,1,1,5,0,0
+2210 ,2022,October,391,M,20,U,PRE391,2,2,services,services,FA391,2,2,yes,no,5,4,4,11,9
+2210 ,2022,October,392,M,17,U,PRE392,3,1,services,services,FA392,1,0,no,yes,4,5,2,3,16
+2210 ,2022,October,393,M,21,R,PRE393,1,1,other,other,FA393,1,3,no,no,5,3,3,3,7
+2210 ,2022,October,394,M,18,R,PRE394,3,2,services,other,FA394,1,0,no,yes,4,,5,0,10
+2210 ,2022,October,395,M,19,U,PRE395,1,1,other,at_home,FA395,1,0,no,yes,2,3,5,5,9
